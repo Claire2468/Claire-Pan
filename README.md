@@ -1,2 +1,1 @@
-# Claire-Pan
-# Random Photo
+# Claire: Some Random Photo
